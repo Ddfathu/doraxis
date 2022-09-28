@@ -1,4 +1,4 @@
 #!/usr/bin/sh
-cd $HOME/AxisForTermux
+cd $HOME/doraxis
 clear
 php apiaxis.php
